@@ -1,1 +1,1 @@
-# 6-ML-Projects-in-6-Days-Challenge
+# 6 MAchine Learning Projects in one month (January)
