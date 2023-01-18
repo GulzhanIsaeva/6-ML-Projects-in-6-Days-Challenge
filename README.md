@@ -1,1 +1,1 @@
-# 6 MAchine Learning Projects in one month (January)
+# 6 Machine Learning Projects in one month (January)
