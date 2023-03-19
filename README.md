@@ -1,1 +1,2 @@
-# 6 Machine Learning Projects in one month (January)
+# Machine Learning Projects by Gulzhan Isaeva
+
